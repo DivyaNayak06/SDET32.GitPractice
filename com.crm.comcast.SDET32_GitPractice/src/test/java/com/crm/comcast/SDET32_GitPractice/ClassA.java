@@ -7,8 +7,9 @@ public class ClassA
 @Test
 public void DemoTest()
 {
+
 	System.out.println("second");
 	
-	
+
 }
 }
