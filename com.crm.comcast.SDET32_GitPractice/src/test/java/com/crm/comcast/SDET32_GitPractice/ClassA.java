@@ -8,6 +8,7 @@ public class ClassA
 public void DemoTest()
 {
 	System.out.println("first");
+	System.out.println(" first new changed ");
 	
 }
 }
