@@ -9,6 +9,5 @@ public class ClassB {
 	{
 		System.out.println("second push");
 		
-		
 	}
 	}

@@ -7,8 +7,7 @@ public class ClassA
 @Test
 public void DemoTest()
 {
-	System.out.println("first changed push");
-	
+	System.out.println("first");
 	
 }
 }
