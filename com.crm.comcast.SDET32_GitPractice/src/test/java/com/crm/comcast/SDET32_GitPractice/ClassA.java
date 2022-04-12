@@ -7,7 +7,9 @@ public class ClassA
 @Test
 public void DemoTest()
 {
-	System.out.println("first");
+
+	System.out.println("second");
 	
+
 }
 }
