@@ -7,9 +7,15 @@ public class ClassA
 @Test
 public void DemoTest()
 {
-	System.out.println("second");
-	System.out.println("second  changed ");
-	System.out.println("commit 5 ");
+	String browser=System.getProperty("browser");
+	String url=System.getProperty("url");
+	
+	System.out.println(browser);
+	System.out.println(url);
+	
+	System.out.println("first changed jenkins");
+	System.out.println("second changed jenkins ");
+	System.out.println("third changed jenkins ");
 	
 	
 }
